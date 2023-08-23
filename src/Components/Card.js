@@ -15,7 +15,6 @@ const Card = ({ imageUrl, author }) => {
 
 export default Card;
 
-
 // ---------------------------------------------------------------------------------
 
 // <div className="image-card">
